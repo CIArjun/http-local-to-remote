@@ -1,1 +1,1 @@
-This ia a sample text
+I pushed initialized repository using https into remote repository
