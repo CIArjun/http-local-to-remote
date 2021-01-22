@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This ia a sample text
+=======
+I pushed initialized repository using https into remote repository
+>>>>>>> a97908d0c8fb877e2b0ead62878c8978830946f9
